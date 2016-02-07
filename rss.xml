@@ -4,488 +4,488 @@
         <title>テストRSS</title>
         <description>説明文</description>
         <link>リンク</link>
-        <lastBuildDate>2016-02-07 13:35:41 +0000</lastBuildDate>
-        <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+        <lastBuildDate>2016-02-07 23:42:35 +0900</lastBuildDate>
+        <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         <ttl>60</ttl>
         <item>
-                <title>  1.    Messenger    </title>
+                <title>  1.    LIVE - 無料視聴アプリ（ライブ）    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.facebook.orca</link>
-                <image>https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.linecorp.linelive</link>
+                <image>https://lh3.googleusercontent.com/ZrmfKXm59AoYdPgocjmTqjKOStUFs31kVHhBrZIJj6sr07Cvxqs3W-MlV9E5cJvLhH4=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  2.    Facebook    </title>
+                <title>  2.    Yahoo!ニュース - 重要ニュースも、好みのニュースも    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.facebook.katana</link>
-                <image>https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.news</link>
+                <image>https://lh3.googleusercontent.com/AJzR-QBhBsdKNBwsFifE00G21o6D9qKae9NFzEiUbGSGOgNqXrWxJdwkq2_bNlvhlPU=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  3.    Candy Crush Jelly Saga    </title>
+                <title>  3.    FINAL FANTASY BRAVE EXVIUS    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.king.candycrushjellysaga</link>
-                <image>https://lh3.googleusercontent.com/XTw4nuHirSOmKpoCeQggG2XeoldCJkW_QjzMy6p7K2-Pev0p7A3jRuiW-lnh0FffhYM=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.square_enix.ffbejpn</link>
+                <image>https://lh3.googleusercontent.com/aJCYHAQEkWh4jsN5kjMRLCOO7_SBhsrCg7p5WyaqOw1b_1Km3KTlt-KFXqNAX7g0ODY=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  4.    Flash Keyboard    </title>
+                <title>  4.    デジタルコンパス    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.dotc.ime.latin.flash</link>
-                <image>https://lh3.googleusercontent.com/C-cU0TU-_Am7MwDHH6VNz0_dhmV55DvYQkBA9aYQPovk5QsZ8MXeOWvnz9mHYrOUdkg=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.vincentlee.compass</link>
+                <image>https://lh6.ggpht.com/EbCtPobTvKbEhYD-IzpKGNOjo4BWtJTfs7zhNK7eKDD5MX5BW1UywTlp-FWsV7WPwQ=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  5.    Color Switch    </title>
+                <title>  5.    ドミネーションズ -文明創造 - (DomiNations)    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.fortafygames.colorswitch</link>
-                <image>https://lh3.googleusercontent.com/7Ohh-Noa06R5zznFAICWawcjkAJfHSZlyuZjLM8AGyM1nCnn312RmT-Y3RaHrCJhvA=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.nexon.dominations.asia.g</link>
+                <image>https://lh3.googleusercontent.com/oDtqs-MIWHKs7dvW468ITFG2rBpv16vtM5nqeQ8l5DI0LIk19RXnM-M8y3shUa3cBuM=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  6.    Snapchat    </title>
+                <title>  6.    グリムノーツ    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.snapchat.android</link>
-                <image>https://lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.square_enix.grimmsnotesjpn</link>
+                <image>https://lh3.googleusercontent.com/51y0CGP4lMkZ9RFf6T1qUUhDLQ0xP3MM-yK9omMEP5iaGROA9BGssgnkkKogU2Tz-ls=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  7.    YouTube Music    </title>
+                <title>  7.    LINE（ライン） - 無料通話・メールアプリ    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music</link>
-                <image>https://lh3.googleusercontent.com/dUsfnDQJZt2v9d1n2tWsPZiYLLmOQkjv3R4rbsTw83lYGo2cQe8u2z-0YQPxmmcgkL8d=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.naver.line.android</link>
+                <image>https://lh4.ggpht.com/IkQ_kmk57G3fFkTOmtfQdp2XTZ8gic119yqvsKDkvbuPotfC7R05JPBdtuGm3OmA15xE=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  8.    Pandora® Radio    </title>
+                <title>  8.    Yahoo! JAPAN　無料でニュースに検索、天気予報も    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.pandora.android</link>
-                <image>https://lh4.ggpht.com/h1ysahfLKlmmzJHyfOV2_D-yBfwgIgJ55SB25OrWAGRNMXO-AXnksMQ65ca6YZGAbyY0=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop</link>
+                <image>https://lh5.ggpht.com/hDO1Bl22b3qn98cZyzJvcFxysiiLrwC4ps_FlKNDIVQofEtyCCN2UqK-__YF3duOyjc=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  9.    Instagram    </title>
+                <title>  9.    12オーディンズ    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.instagram.android</link>
-                <image>https:https://lh3.ggpht.com/vFpQP39LB60dli3n-rJnVvTM07dsvIzxrCL5xMiy1V4GV4unC1ifXkUExQ4N-DBCKwI=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.enish.odins</link>
+                <image>https://lh3.googleusercontent.com/LWqWAEJitctVdoekQt18vZrAeJ1UcTQLom2UpQLEuTaGeEr_LnLP1C7ZFKV_geQFKdY=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  10.    Google Photos    </title>
+                <title>  10.    スマホ一瞬で着せかえ 無料 buzzHOME    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.google.android.apps.photos</link>
-                <image>https://lh5.ggpht.com/tq3WqEUxtRyBn-d_0t3j6WKNHuJDrmLq-FE3GAYrsAMQFIaS7FIgRLfzzql2SvfvLqto=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.buzzpia.aqua.launcher.buzzhome</link>
+                <image>https://lh3.googleusercontent.com/h-dYgjNRMGmik4EjO-daDtqzE7IzvYU-t4I5IfEXPoeW0pA6K9BM_mn0uGodUgLpBQE=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  11.    IRS2Go    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=gov.irs</link>
-                <image>https://lh5.ggpht.com/Vw1lnV8h7LKV9P4MNfx6GJbVRMj8rl14R0Yxo1eE_UqYPk-7g6pw3RGil19kbpU3WmY=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  12.    TurboTax Tax Return App    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.intuit.turbotax.mobile</link>
-                <image>https://lh5.ggpht.com/3YIrH5876DYiDx-IFTGuoJthPEABcsV9CMgTSK8lcvW5gvtBEDT_Tsl71tC6aPy45K1f=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  13.    Netflix    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.netflix.mediaclient</link>
-                <image>https://lh5.ggpht.com/gSs4M00WA2RgVosyh8vc3w3K5s2xZ2gjMpaY63izhCcaGIpCkDdGg-IAqdeJwShT4qk=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  14.    DU Battery Saver&Phone Charger    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.dianxinos.dxbs</link>
-                <image>https://lh3.googleusercontent.com/K2LOnvYqRMacxAmUlLib9qfQw_Xm-iR67AEhkaeecTjL2G1RQVyVPhi7XHi6pzrGxQ=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  15.    Piano Tiles 2 (Don't Tap...2)    </title>
+                <title>  11.    ピアノ タイル 2    </title>
                 <description></description>
                 <link>https://play.google.com/store/apps/details?id=com.cmplay.tiles2</link>
                 <image>https://lh3.googleusercontent.com/Ye5Ef2rZYk43ewYr-ZcHKY5PtPNOGZ-9UImpDyP91gdrRyMWoRm9Fnur05OYIFdS_Q=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  16.    Spotify Music    </title>
+                <title>  12.    コンパス360 Proの（ベストアプリ）Compass    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.spotify.music</link>
-                <image>https://lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.pro.app.compass</link>
+                <image>https://lh3.ggpht.com/5qlRqe6pX5FVnsVD7p3dPsIyrxMO9fetORWAnaecvLQPa-iZCKzdROubBiBRwJXLtdI=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  17.    WhatsApp Messenger    </title>
+                <title>  13.    バッテリー長持ち・節電　Yahoo!スマホ最適化ツール    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.whatsapp</link>
-                <image>https://lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ysmarttool</link>
+                <image>https://lh3.googleusercontent.com/KVCnG9XLZzzOo19SoWyBK9DVTjJDLcZ0aS8vAdVD4R3XE7kamNAzwCU65qEdgiYAvdg=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  18.    Super-Bright LED Flashlight    </title>
+                <title>  14.    LINE POP2    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel</link>
-                <image>https:https://lh6.ggpht.com/POKqqdaXjDqk-84U-3PjIRip78I_As54FGYMFKVu-T3t0OxuXdV7oslBIJjpXCEkQA8n=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.linecorp.LGLP2</link>
+                <image>https://lh3.googleusercontent.com/rctRCd-FdbH34luEm96t8Y06ZvnAFCyaWzK1sys1vTTjuohP0ie0J-M2j0qHkZULwYwe=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  19.    360 Security - Antivirus Boost    </title>
+                <title>  15.    ゆるドラシル-本格派RPG- かわいいキャラで王道RPG！    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.qihoo.security</link>
-                <image>https://lh3.googleusercontent.com/oiSkVEEE1iEcEOJ4F5dIBWXzJPzftcDmHHi82PJtCOjspi1Y6lC8Q_fAFU-pjOv03w4=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.cloverlab.yurudora</link>
+                <image>https://lh3.googleusercontent.com/4FKxyXsH7SvMDHxshUZpGNSAP5-x86Cyrkm15Ii2djsoiXRRE25wp_XZdBzk8rZFFY61=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  20.    Kik    </title>
+                <title>  16.    Googleフォト    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=kik.android</link>
-                <image>https://lh6.ggpht.com/sRWS6JpaUYQPxdSPv7BLUWOsA9L7IRcvQOjT6GD5x2QMsaM5N2Glk88o7BjA2tWEMaRG=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.google.android.apps.photos</link>
+                <image>https://lh5.ggpht.com/tq3WqEUxtRyBn-d_0t3j6WKNHuJDrmLq-FE3GAYrsAMQFIaS7FIgRLfzzql2SvfvLqto=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  21.    Pinterest    </title>
+                <title>  17.    キャンディークラッシュゼリー    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.pinterest</link>
-                <image>https://lh3.googleusercontent.com/SrULGsyndXJk6Gs4Lmv34sOlMDAroy1bzPPr9X1U5oVdv5TAAJX4JkYPO_wQAdP7TBA=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.king.candycrushjellysaga</link>
+                <image>https://lh3.googleusercontent.com/XTw4nuHirSOmKpoCeQggG2XeoldCJkW_QjzMy6p7K2-Pev0p7A3jRuiW-lnh0FffhYM=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  22.    Amazon Shopping    </title>
+                <title>  18.    対戦！ボンバーマン    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=jp.konami.vsbomber</link>
+                <image>https://lh3.googleusercontent.com/d1q9EB9LyfkXAWEOdJuXCOuEENet_wmeV3jjdMOgKvDaVMajpqZShi6cZk9sp_qkeyQ=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  19.    LINE MUSIC（ラインミュージック）    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=jp.linecorp.linemusic.android</link>
+                <image>https://lh3.googleusercontent.com/bPDtzy3roujKDYr3lGPwww0y0rheJsTJhqbI7QHTOi3i82qNDXvD-b--1C_Il8DWEUxf=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  20.    セブンナイツ(Seven Knights)    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.netmarble.sknightsjp</link>
+                <image>https://lh3.googleusercontent.com/lWsTXc4lR4Hqn48p9sVkLY21lLFaMBu09HB6supR9Qkq-oWYm7oIcav7VY5SZliOMQ=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  21.    ALICE ORDER    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.square_enix.aliceorderjpn</link>
+                <image>https://lh3.googleusercontent.com/rXI9oBctf3DsHphEYclo1nUj_SCX_y00QdORfCXgbQ70lo78MtrlSsGBUEA2zR0yU2k=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  22.    コンパス : Smart Compass    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=kr.sira.compass</link>
+                <image>https://lh3.googleusercontent.com/XUMe1ReeKQ1wPVCtZjnGbncAlKIsiiN-7ue1J1K5C5d6JG0KUMNmlvjZYUnr0g97sFKp=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  23.    正確なコンパス    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.andymstone.accuratecompass</link>
+                <image>https://lh4.ggpht.com/hCteUJHFM9e_GVizsgrpqKDwnRIwYGbnxouXgiPWtnrgOWC0vlV1qrm_qnCc_mA5Y_zH=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  24.    クロノスブレイド    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.rekoo.ageofmagic</link>
+                <image>https://lh3.googleusercontent.com/f-b36ioNupvZbRPQnA1lWY9vmPTveHlNWhEZiVbXr_-T5ZIMTKoJ8oJWXDDsopq9Wysx=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  25.    恵方コンパス    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=jp.co.applications.EhouCompass</link>
+                <image>https://lh4.ggpht.com/qj3Oj8ODvaay2N5QzfCQiIp4nu55htIMC8mz0Mihi9Ps32AArorZCJl6WN9okvaQN6Hi=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  26.    LINE：ディズニー ツムツム    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.linecorp.LGTMTM</link>
+                <image>https://lh3.googleusercontent.com/kwDR3_uVAuQHllAeh4OPmPm3fXo04s75dtLEX0iMDbql4sqDFyTVzYA53dl0pmDPWBx4=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  27.    Amazon ショッピングアプリ    </title>
                 <description></description>
                 <link>https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping</link>
                 <image>https://lh4.ggpht.com/jEV6nsNv-638GnXkiO5Cfk6zF5lKZCZuWdOtmlL_7PXR79vgteOIHcNDPhNYqGC7dzg=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  23.    ZEDGE™ Ringtones & Wallpapers    </title>
+                <title>  28.    LINE ブラウンファーム    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=net.zedge.android</link>
-                <image>https://lh3.ggpht.com/Iw1cJaxMVyzSGul5j7aXFZtmYvv96HCugeX74YRFlvBsvNrnKRx9d-k72aR4Pmtuno8=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.linecorp.LGFARM</link>
+                <image>https://lh3.googleusercontent.com/7Y5Cn9hyyjR7gbfMXuw3WtQIhJXR87ThDfdsoXbBRvXhn0IKAXflpZPlQmaFHgMNS-Q=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  24.    Wallapop - Buy & Sell Nearby    </title>
+                <title>  29.    フリマアプリ「メルカリ」オークションよりかんたん    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.wallapop</link>
-                <image>https://lh3.googleusercontent.com/eiHGogXLz3iBRZhKrdr7FOkw6q5P_iuGSwqGWmd1yRzMcc-B7V6xIKR9wzuqDrD61K4=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.kouzoh.mercari</link>
+                <image>https://lh4.ggpht.com/LQDLh7N0NWO-3Jl-gYZAto0WWHg7RX__olf_fVki6QcQ85O-7BwlEk8BPlN9oDDNajG-=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  25.    musical.ly    </title>
+                <title>  30.    Instagram    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically</link>
-                <image>https://lh3.googleusercontent.com/lUtrEUhE7oI4e3kxycFPC2leKG1bqhdL_hIW5-N-nfonh7sja90tsrDtX3WNbboSDjOM=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.instagram.android</link>
+                <image>https:https://lh3.ggpht.com/vFpQP39LB60dli3n-rJnVvTM07dsvIzxrCL5xMiy1V4GV4unC1ifXkUExQ4N-DBCKwI=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  26.    Madden NFL Mobile    </title>
+                <title>  31.    忍たま乱太郎 ふっとびパズル！の段    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.ea.game.maddenmobile15_row</link>
-                <image>https://lh3.googleusercontent.com/TylcPI4MO1gdRx_dk9Plu-wNEboUeukMUL1U3UHhHA_6Mcp578WCf_QU5FeufQl1iVc1=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.bushiroad.nintama.android</link>
+                <image>https://lh3.googleusercontent.com/r3B1q8gg9M_36h7ntzUU7sEgLkdWwDIPw1yb0uc1MEV6RLixu5cRw1Z8kAaI27RBMF4=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  27.    Mp3 Music Downloader    </title>
+                <title>  32.    ジーユー    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.cynomusic.mp3downloader</link>
-                <image>https://lh3.googleusercontent.com/Sg3xjhc613esSquOW5oyjPQsdqweWvIguOm4jh0giV46cIi_JeFDyRqQglpZCLk2jQ=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.osharemaker</link>
+                <image>https://lh5.ggpht.com/-5CF7RJtfITHDn6XZ9jj696908X0G_IvqCopPXV7_q6qtXYnQW1swo8tbTa5LPoCSO-f=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  28.    Subway Surfers    </title>
+                <title>  33.    ドラゴンボールZ ドッカンバトル    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf</link>
-                <image>https://lh3.googleusercontent.com/aDw58b9Eryt975wZyKP7Rn-IkJZawdlR6w1KfzRhMbGJhB_Rg5c7AqL8xeGiY_Y8vyM=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkan</link>
+                <image>https://lh3.googleusercontent.com/lkj8n0clmXjuKO_R1lS_G1VZiG35AYr5qVFD0kFSnR6f1mcVe4gmuHgHmgsGrGQU0g=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  29.    SongFlip - Free Music & Player    </title>
+                <title>  34.    妖怪ウォッチ ぷにぷに    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.hypermedia.songflip</link>
-                <image>https://lh3.googleusercontent.com/QB7Ldln0B2Q-vcs7qv_3YOiwWqrCppo24cFdvvXydjoNajDt0ZooShkvKKDHoCs-VNY=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.Level5.YWP</link>
+                <image>https://lh3.googleusercontent.com/VE0sdldgaupGD41kw2rurEok2dwiwDNGN_NhIg_juzeXm9t1cQbURfhMAGsy_uY7H9Hz=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  30.    Clean Master (Boost & AppLock)    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.cleanmaster.mguard</link>
-                <image>https:https://lh3.ggpht.com/hx9UAWTinSn-R_CQleBveiMFoiW7XKxBl1gU0ev4zZ2v5OGxFZJ_k_370vwDzAJ4vho=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  31.    Wish - Shopping Made Fun    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.contextlogic.wish</link>
-                <image>https://lh3.ggpht.com/YuAz4PSLjKm-SPueYdYnKxQbZa0bnlrVrM1CxKxVtZPt_ryn-g5LULtmMT7topjPVXww=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  32.    letgo: Buy & Sell Used Stuff    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.abtnprojects.ambatana</link>
-                <image>https://lh3.googleusercontent.com/VnJY-ZjSBbdJfDVdl2HoLZIIKSp9PGvXaDq7qoSlZZf4Y_Pn141b0TPsPlg_xdTbkSg=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  33.    DU Speed Booster & Antivirus    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.dianxinos.optimizer.duplay</link>
-                <image>https://lh5.ggpht.com/OG-TbrHdUbg465vKaJnlgudg7x166zsmQYEKwvdLiFneCkQQxmbENu9RjNmMPwb-1g=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  34.    SoundCloud - Music & Audio    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.soundcloud.android</link>
-                <image>https://lh3.googleusercontent.com/PNNyqn-YD1KbQ9YIFDjEvSlBV3vypAyVdcZRWpcu6YlEKOo8a53-FsAipCZmFUCBpQEa=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  35.    Skype - free IM & video calls    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.skype.raider</link>
-                <image>https://lh5.ggpht.com/1CxNUEdzrREikWZoaHIU5J63x2gOxTb7R-ZIbJd51uPBFt0jUj8AX2bMOhKiIBcuAqtH=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  36.    8 Ball Pool    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.miniclip.eightballpool</link>
-                <image>https://lh4.ggpht.com/bfp-gUDal6YKuVIkmA7iNR_-Tf4yaTXOyKaK8r1C2whC9APYiRcvmlM3ub9TxLBMw3KT=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  37.    OfferUp - Buy. Sell. Offer Up    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.offerup</link>
-                <image>https://lh4.ggpht.com/gL7yt0AxP2EkIBc-RZRvqfy0mxDXXeqoDt-mo-jqg2ejJVugiM5XMoXskPWhgwFnTuU=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  38.    Geometry Dash Meltdown    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.robtopx.geometrydashmeltdown</link>
-                <image>https://lh3.googleusercontent.com/o7hHBVIagQ_rylkmNuIx_sOEzaoAgRSHQhsfBM_C5MV3nJThWC_kkTYaBJJwTnfVc7I=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  39.    World Chef    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=es.parrotgames.restaurantcity</link>
-                <image>https://lh3.googleusercontent.com/2qtN3tZ8PdDMIOITthUtr-DZHnQml_JhFDqkFNv6yvXH9fdq55UGz8xRk6Mr_pEXSN8=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  40.    Traffic Rider    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.skgames.trafficrider</link>
-                <image>https://lh3.googleusercontent.com/waNXuksTMUa1iPKdHpnCCuwWweFl_4h18vCQdpDwLf8c3_Fg77q0rfYiHoh4lUM7Xg=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  41.    Uber    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.ubercab</link>
-                <image>https://lh3.googleusercontent.com/aMoTzec746RIY9GFOKMjipqBShsKos_KxeDtS59tRp4-ePCpGqW2bS-ySyUEL6q3gkA=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  42.    Yahoo Mail – Free Email App    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail</link>
-                <image>https://lh6.ggpht.com/yzhSae3SIKlwv9lBzpCWaexNKgpLHXvwnxyEE7_oW3SdMv604v-YtUcQnGCyAUpX1lcm=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  43.    Emoji Keyboard Pro Kika + GIFs    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.emoji.coolkeyboard</link>
-                <image>https://lh3.googleusercontent.com/v2M8rKeCZMsRlgA5Gj-GSxMXjPOATij56QuO5ylyAAJiFwomtIyEu7RVAa8oRPF_R-c=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  44.    Moments    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.facebook.moments</link>
-                <image>https://lh3.googleusercontent.com/iJy1XmmGE3Gj31zEsU3D2KGBREKfsQeSzd24tnV4bg1ecQi3YaJK8Wo0C7NFqR9aOQ=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  45.    Credit Karma    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.creditkarma.mobile</link>
-                <image>https://lh3.googleusercontent.com/PSCYk5L9qZoBwShcmftt40vFMZZqhMOzfmIHsKmVg65d8D3zR98V7F-vEVzxppninncS=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  46.    Messenger    </title>
-                <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.google.android.apps.messaging</link>
-                <image>https://lh5.ggpht.com/GEWb6ZYNQpE5lGgnRSXkG_UePDR-qcVqOYBZbMfiYGxCuR2FrtXXpElvqVuAM65usQN0=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
-        </item>
-        <item>
-                <title>  47.    Twitter    </title>
+                <title>  35.    Twitter    </title>
                 <description></description>
                 <link>https://play.google.com/store/apps/details?id=com.twitter.android</link>
-                <image>https://lh3.ggpht.com/lSLM0xhCA1RZOwaQcjhlwmsvaIQYaP3c5qbDKCgLALhydrgExnaSKZdGa8S3YtRuVA=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <image>https://lh3.ggpht.com/nn0_2f2yehKR7fnMIZ0XrSWbC5Q0VPP7vNmLMV7ndNFinClynZRO4RBTGfbjVOs1fyA=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  48.    Mobile Strike    </title>
+                <title>  36.    クラッシュ オブ キングス-「城」を奪い返せ    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.hcg.cok.gp</link>
+                <image>https://lh5.ggpht.com/wjNgsM2TGmbxbN-jDNAUNTIIq32OSx83Tx4Vl3jOudqzUEi1yTVCcMtnoGnZGGyXRA=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  37.    QRコードリーダー    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=tw.mobileapp.qrcode.banner</link>
+                <image>https://lh6.ggpht.com/ufwUy4SGVTqCs8fcp6Ajxfpae0bNImN1Rq2cXUjWI7jlmNMCsXgQE5C3yUEzBu5Gadkz=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  38.    Facebook    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.facebook.katana</link>
+                <image>https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  39.    スマートニュース/圏外でもニュースサクサクSmartNews    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android</link>
+                <image>https://lh3.googleusercontent.com/6vp7JxvSn-Pp9nVoWERK2CmmOYQRKMPgPidrRN-q8ASDM2gZh95xSQ9CBIrqyoMf6aM=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  40.    FINAL FANTASY GRANDMASTERS    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffgm</link>
+                <image>https://lh3.googleusercontent.com/35OzekbAd-xGakb86dpXKpE4Ph0dML4wtZ6ttJAn3Tiumz0iSpeSwpR6XmB5jEd2bnE=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  41.    恵方コンパス！【恵方巻きを食べる方角がすぐ探せる！】    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=info.smahoapps.android.ehou</link>
+                <image>https://lh3.googleusercontent.com/E0QD87YVXRvjJP14aDGnqDMq8kzET0mkietv_LvZodvMlOhAkXcMUdWoylOcyP4jK9Fz=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  42.    Messenger    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.facebook.orca</link>
+                <image>https://lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  43.    クックパッド - No.1レシピ検索＆スーパーのチラシアプリ    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.cookpad.android.activities</link>
+                <image>https://lh3.googleusercontent.com/JcAf7Q2siTH1LKsZpKTBrcEOcVVrO9V6Uu7iziT1QlHYg81ZMv2qN7KwsnePqDHtyKlK=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  44.    モンスターストライク    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike</link>
+                <image>https://lh3.ggpht.com/PmqMQXUSxvLjiUc82xI-cnvhclrlLoIExL2TC4ZiUHdgv2KE8mMo7tkrxLuk-ig7j0k=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  45.    モバイルストライク【Mobile Strike】    </title>
                 <description></description>
                 <link>https://play.google.com/store/apps/details?id=com.epicwaronline.ms</link>
                 <image>https://lh3.googleusercontent.com/NDWKBeexFoVybTD2bJbgst3fwWpVpHQdtEdNJV7NjyppM13lyad1MS3WMCdBWdDJ8w=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  49.    Mandala Coloring Pages    </title>
+                <title>  46.    [モバ７]CRヱヴァンゲリヲン9    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.color.mandala</link>
-                <image>https://lh3.googleusercontent.com/YWKdyt62VAV0J_4L25v5CAuc5nlhVDRHCRMvXIQWIiOEhSUywkpmPFyLAyA8IgmxfmQ=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.mbga.a12023673.lite</link>
+                <image>https://lh3.googleusercontent.com/hiQtGwMEe9OVeGSvs1HRIVo8Ca4AiPCdM0UyX_rfsRILWeThrODTCM2NL8b1kIpmHdg=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  50.    Solitaire    </title>
+                <title>  47.    Clipbox    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.kathleenOswald.solitaireGooglePlay</link>
-                <image>https://lh3.googleusercontent.com/FLDs11UyeZdr7kB8ymcHHbGd_0WtwelkSxH6t0wzNHlxyoBrePiPQxUZHivbgtP5cNg=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.granks.clipbox4Gp</link>
+                <image>https://lh5.ggpht.com/mrA3YnYkTzfcddnxMOv4bWE_kiyBv8lSR0haIyh01UmiXk9y49f0QG3awFC9LZUfHw=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  51.    Temple Run 2    </title>
+                <title>  48.    niconico (ニコニコ動画／ニコニコ生放送)    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.imangi.templerun2</link>
-                <image>https://lh3.googleusercontent.com/gdPaHNdaSljaVCBstSM4sYt8kR1kSaQC9u5M8yhP5ovyKXCOdMsJbu37C0TL9GkiYk8=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.nicovideo.android</link>
+                <image>https://lh3.ggpht.com/J7KoCnvv29cBUurmh3waYHP6vMS59UUwyuir4Ts_qpQp9r2kv-KBG9zppnnnpANsZBs=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  52.    Clash of Clans    </title>
+                <title>  49.    Clean Master[タスクキラー/ファイル削除]    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.supercell.clashofclans</link>
-                <image>https://lh6.ggpht.com/1eVPA6Iukw-F4i5xq1ZWicaKBzmprLGw98YhdG20E-wlsHHg3PcKJqbY_fWLdJeGRw=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.cleanmaster.mguard</link>
+                <image>https:https://lh3.ggpht.com/hx9UAWTinSn-R_CQleBveiMFoiW7XKxBl1gU0ev4zZ2v5OGxFZJ_k_370vwDzAJ4vho=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  53.    MARVEL Avengers Academy    </title>
+                <title>  50.    跳びだせ!チャリ走3D    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.tinyco.avengers</link>
-                <image>https://lh3.googleusercontent.com/4aPMIItuL9LIYPfeQEA-OjpFa6dJairv27ppOvc_x8awB9kzfAYddD6UghIFfCCQk5U=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.spicysoft.chariso3d</link>
+                <image>https://lh3.googleusercontent.com/WvUEcLwfkSOmu94X40GQnqWn08I3JTojW3sf46SJsIP-qMSDeWa26kZY3ksfy2Y7tZY=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  54.    iHeartRadio Free Music & Radio    </title>
+                <title>  51.    Traffic Rider    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller</link>
-                <image>https://lh3.googleusercontent.com/eV_uDlQEG2UnKavHlRFiqlDA2UNttgRS9oS18bL7PX-oc275HYnMM8JWMpWmjI3_oZo=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=com.skgames.trafficrider</link>
+                <image>https://lh3.googleusercontent.com/waNXuksTMUa1iPKdHpnCCuwWweFl_4h18vCQdpDwLf8c3_Fg77q0rfYiHoh4lUM7Xg=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  55.    Words With Friends    </title>
+                <title>  52.    McDonald's Japan    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.zynga.wwf2.free</link>
-                <image>https://lh3.googleusercontent.com/MnPu6ymTGvgoSMqJQmdbqkDuVmn60Sv-pgtyMKTLMoZk0S6hUR1yMHSbOkV8Vp24xA=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.mcdonalds.android</link>
+                <image>https://lh3.googleusercontent.com/_xcDVY1dg1xLk0SX44n2Pb0KOD6wOiTk1C5UiN5HAlt6NYKeCu0pbi1wQUdbBvjZGEE=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  56.    Geometry Dash Lite    </title>
+                <title>  53.    Yahoo!天気 雨雲の接近や台風の進路がわかる予報情報無料    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite</link>
-                <image>https://lh3.ggpht.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1</link>
+                <image>https://lh3.googleusercontent.com/ONNOOCUw7PchrTMFgD-VP9wTiJgrmRrV6qx6Q0E8NzOV9plPF2c358f7zmYuhM8iWk-z=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  57.    The Weather Channel    </title>
+                <title>  54.    Yahoo!乗換案内　無料の時刻表、運行情報、乗り換え検索    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.weather.Weather</link>
-                <image>https:https://lh6.ggpht.com/hGnzb0TzcUKDC63BIxs-x0wig5iq7SJd7F1iSRBywX3fbKyLoMDZWAsJJNxyOx9F1rUk=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.transit</link>
+                <image>https://lh6.ggpht.com/4jOaIDOUv3jpawSI1zKuv032zvlq99JSwjgHDrOfa8Pfp_z441nkpysT7BISf9tNl7Zi=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  58.    Word Up brain game    </title>
+                <title>  55.    白猫プロジェクト    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=in.playsimple.word_up</link>
-                <image>https://lh3.googleusercontent.com/BLtzadSHITlF5hKPX4r3UTO0BMUkxBeXv1jUG2T-fJux9UYIoBjEtbe_Z8BALVXqDn1g=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.colopl.wcat</link>
+                <image>https://lh3.ggpht.com/fsQiaqJfgaGfo-IimTpmXGrVBqUP3XFgD9udvtY_sNfred36lWG_y5PMZ1f397Xuj_w=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  59.    Candy Crush Saga    </title>
+                <title>  56.    Yahoo!地図　ナビ、雨雲、混雑レーダーが使える無料マップ    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.king.candycrushsaga</link>
-                <image>https://lh5.ggpht.com/81M05pEyFiOqKt8CashUoz66iJAhL-3PHHbAil108QkU9sKeVZBuZaNJiV7b0gZ2GFU=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map</link>
+                <image>https://lh6.ggpht.com/34Ns4lUChhDlAdyT1XIYsH0_Co4iABU8cRO44dFJZOcqCp4j_AhjW-W64VvL8fKW=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
         <item>
-                <title>  60.    imo free video calls and chat    </title>
+                <title>  57.    Yahoo!ブラウザ：最適化機能つきで自動で軽くなるブラウザ    </title>
                 <description></description>
-                <link>https://play.google.com/store/apps/details?id=com.imo.android.imoim</link>
-                <image>https://lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340</image>
-                <price>Free</price>
-                <pubDate>2016-02-07 13:35:41 +0000</pubDate>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybrowser</link>
+                <image>https://lh3.googleusercontent.com/n3P6Ilxmcsa5FvhX2S2MljsyhqQsvsObHY82JRfok1LxULd0nYAcXJ3Re2O5_63yX7g=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  58.    UNIQLOアプリ    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=com.uniqlo.ja.catalogue</link>
+                <image>https:https://lh5.ggpht.com/ajJyxY3MLcZE5vh5IgZF5YHpwLtD4SMPMmnbiwymkT_3jGLdHMk6WDst0oPvPECcR2I=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  59.    楽天市場　ショッピングアプリ　いつでも毎日ポイント7倍！    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=jp.co.rakuten.android</link>
+                <image>https://lh6.ggpht.com/tRUSEGxePJfL5SYRzLTaulVVG2Qh1s6SBRle6I7W0Vd-MQylziY-zwjiaWDD2pO2hrc=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
+        </item>
+        <item>
+                <title>  60.    Yahoo!カーナビ - 無料で使える本格カーナビアプリ    </title>
+                <description></description>
+                <link>https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.navi</link>
+                <image>https://lh6.ggpht.com/T3QBgqmKWGWvAME61MFnhtuAE5jnAPQvVNI0hIBXOGc5ZtBexkF3HFZyadld6nV5eRo=w340</image>
+                <price>無料</price>
+                <pubDate>2016-02-07 23:42:35 +0900</pubDate>
         </item>
 </channel>
 </rss>
